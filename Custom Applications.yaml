@@ -1,0 +1,30 @@
+payload:
+  - PROCESS-NAME,wingetui.exe
+  - PROCESS-NAME,Docker Desktop.exe
+  - PROCESS-NAME,windhawk.exe
+  - PROCESS-NAME,chrome.exe
+  - PROCESS-NAME,chrome_proxy.exe
+  - PROCESS-NAME,ChromeAgent.exe
+  - PROCESS-NAME,GoogleChromePortable.exe
+  - PROCESS-NAME,msedge.exe
+  - PROCESS-NAME,iexplore.exe
+  - PROCESS-NAME,opera.exe
+  - PROCESS-NAME,vivaldi.exe
+  - PROCESS-NAME,Maxthon.exe
+  - PROCESS-NAME,firefox.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,BitTorrent.exe
+  - PROCESS-NAME,gephgui-wry.exe
+  - PROCESS-NAME,v2rayN.exe
+  - PROCESS-NAME,Clash for Windows.exe
+  - PROCESS-NAME,Clash Verge.exe
+  - PROCESS-NAME,clash-verge-service.exe
+  - PROCESS-NAME,clash-meta.exe
+  - PROCESS-NAME,nekoray.exe
+  - PROCESS-NAME,Hiddify.exe
+  - PROCESS-NAME,nodesCatch.exe
+  - PROCESS-NAME,Telegram.exe
+  - PROCESS-NAME,googleearth.exe
+  - PROCESS-NAME,stellarium.exe
+  - PROCESS-NAME,Star Walk 2.exe
+  - PROCESS-NAME,Steam.exe
