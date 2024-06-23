@@ -1,4 +1,5 @@
 payload:
+  - PROCESS-NAME,GitHubDesktop.exe
   - PROCESS-NAME,wingetui.exe
   - PROCESS-NAME,Docker Desktop.exe
   - PROCESS-NAME,windhawk.exe
