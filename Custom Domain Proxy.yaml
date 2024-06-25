@@ -1,6 +1,7 @@
 payload:
   - '+.docker.com'
   - '+.docker.io'
+  - '+.getsurfboard.com'
   - '+.ghcr.io'
   - '+.ghproxy.com'
   - '+.github.com'
