@@ -4,3 +4,4 @@ payload:
   - '+.archive.synology.com'
   - '+.pkgupdate7.synology.com'
   - '+.synologydownload.com'
+  - '+.pkgautoupdate.synologyupdate.com'
