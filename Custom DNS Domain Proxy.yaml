@@ -1,1 +1,13 @@
 payload:
+  - '+.adguard-dns.com'
+  - '+.cloudflare-dns.com'
+  - '+.dns.google'
+  - '+.dns.sb'
+  - '+.dns.yandex.net'
+  - '+.doh.sb'
+  - '+.dot.sb'
+  - '+.one.one.one.one'
+  - '+.opendns.com'
+  - '+.quad9.net'
+  - '+.twnic.tw'
+  - '+.umbrella.com'
