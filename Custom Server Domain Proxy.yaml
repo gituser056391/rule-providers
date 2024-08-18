@@ -2,5 +2,5 @@ payload:
   - '+.archive.synology.com'
   - '+.indentity.synology.com'
   - '+.pkgupdate7.synology.com'
-  - '+.synologydownload.com'
+#  - '+.synologydownload.com'
   - '+.pkgautoupdate.synologyupdate.com'
