@@ -15,6 +15,11 @@ payload:
   - PROCESS-NAME,firefox.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,BitTorrent.exe
+  - PROCESS-NAME,ffmpeg.exe
+  - PROCESS-NAME,lux.exe
+  - PROCESS-NAME,you-get.exe
+  - PROCESS-NAME,yt-dlp.exe
+  - PROCESS-NAME,hitomi_downloader_GUI.exe
   - PROCESS-NAME,gephgui-wry.exe
   - PROCESS-NAME,v2rayN.exe
   - PROCESS-NAME,Clash for Windows.exe
