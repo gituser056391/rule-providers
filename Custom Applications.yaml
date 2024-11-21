@@ -13,6 +13,7 @@ payload:
   - PROCESS-NAME,vivaldi.exe
   - PROCESS-NAME,Maxthon.exe
   - PROCESS-NAME,firefox.exe
+  - PROCESS-NAME,fileu.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,BitTorrent.exe
   - PROCESS-NAME,ffmpeg.exe
