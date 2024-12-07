@@ -1,4 +1,5 @@
 payload:
+  - '+.cpu-monkey.com'
   - '+.docker.com'
   - '+.docker.io'
   - '+.getsurfboard.com'
