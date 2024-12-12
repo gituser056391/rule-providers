@@ -14,6 +14,7 @@ payload:
   - PROCESS-NAME,Maxthon.exe
   - PROCESS-NAME,firefox.exe
   - PROCESS-NAME,fileu.exe
+  - PROCESS-NAME,filec.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,BitTorrent.exe
   - PROCESS-NAME,ffmpeg.exe
@@ -24,9 +25,10 @@ payload:
   - PROCESS-NAME,gephgui-wry.exe
   - PROCESS-NAME,v2rayN.exe
   - PROCESS-NAME,Clash for Windows.exe
+  - PROCESS-NAME,clash-meta.exe
   - PROCESS-NAME,Clash Verge.exe
   - PROCESS-NAME,clash-verge-service.exe
-  - PROCESS-NAME,clash-meta.exe
+  - PROCESS-NAME,FlClash.exe
   - PROCESS-NAME,nekoray.exe
   - PROCESS-NAME,Hiddify.exe
   - PROCESS-NAME,nodesCatch.exe
