@@ -17,6 +17,7 @@ payload:
   - PROCESS-NAME,filec.exe
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,BitTorrent.exe
+  - PROCESS-NAME,qbittorrent.exe
   - PROCESS-NAME,ffmpeg.exe
   - PROCESS-NAME,lux.exe
   - PROCESS-NAME,you-get.exe
