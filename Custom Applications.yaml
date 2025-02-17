@@ -3,6 +3,7 @@ payload:
   - PROCESS-NAME,wingetui.exe
   - PROCESS-NAME,Docker Desktop.exe
   - PROCESS-NAME,windhawk.exe
+  - PROCESS-NAME,Ferdium.exe
   - PROCESS-NAME,chrome.exe
   - PROCESS-NAME,chrome_proxy.exe
   - PROCESS-NAME,ChromeAgent.exe
