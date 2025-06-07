@@ -2,6 +2,7 @@ payload:
   - '+.cpu-monkey.com'
   - '+.docker.com'
   - '+.docker.io'
+  - '+.geissele.com'
   - '+.getsurfboard.com'
   - '+.ghcr.io'
   - '+.ghproxy.com'
