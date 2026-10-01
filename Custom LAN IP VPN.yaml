@@ -1,2 +1,2 @@
 payload:
-  - IP-SUFFIX,192.168.35.195
+  - IP-SUFFIX,192.168.35.195/32
