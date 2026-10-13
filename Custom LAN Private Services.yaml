@@ -1,2 +1,3 @@
 payload:
+  - IP-SUFFIX,192.168.35.0/24
   - DOMAIN-SUFFIX,zima.os
