@@ -1,3 +1,4 @@
 payload:
   - IP-CIDR,192.168.35.0/24,no-resolve
+  - DOMAIN-WILDCARD,*.o
   - DOMAIN-SUFFIX,zima.os
