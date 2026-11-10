@@ -3,5 +3,11 @@ payload:
   - IP-CIDR,fda8:5780:6064::/64,no-resolve
   - DOMAIN-SUFFIX,home.internal
   - DOMAIN-SUFFIX,os.io
+  - DOMAIN-SUFFIX,istoreos.io
+  - DOMAIN-SUFFIX,nas.io
+  - DOMAIN-SUFFIX,pc.io
+  - DOMAIN-SUFFIX,dsm.io
+  - DOMAIN-SUFFIX,fnos.io
   - DOMAIN-SUFFIX,app.io
   - DOMAIN-SUFFIX,zima.os
+  - DOMAIN-SUFFIX,windows.io
