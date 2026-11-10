@@ -1,1 +1,7 @@
 payload:
+  - IP-CIDR,10.10.0.0/16,no-resolve
+  - IP-CIDR,fd37:3345:162f:10::/64,no-resolve
+  - DOMAIN-SUFFIX,home-1.internal
+  - DOMAIN-SUFFIX,os-1.io
+  - DOMAIN-SUFFIX,app-1.io
+  - DOMAIN-SUFFIX,zima.os-1
