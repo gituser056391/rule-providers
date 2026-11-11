@@ -2,8 +2,14 @@ payload:
   - IP-CIDR,10.0.0.0/16,no-resolve
   - IP-CIDR,fda8:5780:6064::/64,no-resolve
   - DOMAIN-SUFFIX,home.internal
+  - DOMAIN-SUFFIX,smart-pdu.os
+  - DOMAIN-SUFFIX,smart-pdu
   - DOMAIN-SUFFIX,istore.os
   - DOMAIN-SUFFIX,istoreos
+  - DOMAIN-SUFFIX,tp-link-bc.os
+  - DOMAIN-SUFFIX,tp-link-bc
+  - DOMAIN-SUFFIX,unifi.os
+  - DOMAIN-SUFFIX,unifi-os
   - DOMAIN-SUFFIX,nas
   - DOMAIN-SUFFIX,pc
   - DOMAIN-SUFFIX,dsm.os
