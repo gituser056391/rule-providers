@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,fn.os
   - DOMAIN-SUFFIX,fnos
   - DOMAIN-SUFFIX,app.io
+  - DOMAIN-SUFFIX,i
   - DOMAIN-SUFFIX,zima.os
   - DOMAIN-SUFFIX,zimaos
   - DOMAIN-SUFFIX,windows.os
