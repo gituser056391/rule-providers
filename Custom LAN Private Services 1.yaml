@@ -3,14 +3,14 @@ payload:
   - IP-CIDR,fd37:3345:162f:10::/64,no-resolve
   - DOMAIN-SUFFIX,home-1.internal
   - DOMAIN-SUFFIX,os-1.io
-  - DOMAIN-SUFFIX,smart-pdu-1
-  - DOMAIN-SUFFIX,istoreos-1
-  - DOMAIN-SUFFIX,tp-link-bc-1
-  - DOMAIN-SUFFIX,unifi-os-1
-  - DOMAIN-SUFFIX,nas-1
-  - DOMAIN-SUFFIX,pc-1
-  - DOMAIN-SUFFIX,dsm-1
-  - DOMAIN-SUFFIX,fnos-1
-  - DOMAIN-SUFFIX,app-1
-  - DOMAIN-SUFFIX,zimaos-1
-  - DOMAIN-SUFFIX,windows-1
+  - DOMAIN-SUFFIX,smart-pdu-1.io
+  - DOMAIN-SUFFIX,istoreos-1.io
+  - DOMAIN-SUFFIX,tp-link-bc-1.io
+  - DOMAIN-SUFFIX,unifi-os-1.io
+  - DOMAIN-SUFFIX,nas-1.io
+  - DOMAIN-SUFFIX,pc-1.io
+  - DOMAIN-SUFFIX,dsm-1.io
+  - DOMAIN-SUFFIX,fnos-1.io
+  - DOMAIN-SUFFIX,app-1.io
+  - DOMAIN-SUFFIX,zimaos-1.io
+  - DOMAIN-SUFFIX,windows-1.io
