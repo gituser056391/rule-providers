@@ -12,5 +12,6 @@ payload:
   - DOMAIN-SUFFIX,dsm-1.io
   - DOMAIN-SUFFIX,fnos-1.io
   - DOMAIN-SUFFIX,app-1.io
+  - DOMAIN-SUFFIX,zima.os-1
   - DOMAIN-SUFFIX,zimaos-1.io
   - DOMAIN-SUFFIX,windows-1.io
