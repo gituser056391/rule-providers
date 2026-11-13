@@ -2,23 +2,16 @@ payload:
   - IP-CIDR,10.0.0.0/16,no-resolve
   - IP-CIDR,fda8:5780:6064::/64,no-resolve
   - DOMAIN-SUFFIX,home.internal
-  - DOMAIN-SUFFIX,smart-pdu.os
-  - DOMAIN-SUFFIX,smart-pdu
-  - DOMAIN-SUFFIX,istore.os
-  - DOMAIN-SUFFIX,istoreos
-  - DOMAIN-SUFFIX,tp-link-bc.os
-  - DOMAIN-SUFFIX,tp-link-bc
-  - DOMAIN-SUFFIX,unifi.os
-  - DOMAIN-SUFFIX,unifi-os
-  - DOMAIN-SUFFIX,nas
-  - DOMAIN-SUFFIX,pc
-  - DOMAIN-SUFFIX,dsm.os
-  - DOMAIN-SUFFIX,dsm
-  - DOMAIN-SUFFIX,fn.os
-  - DOMAIN-SUFFIX,fnos
+  - DOMAIN-SUFFIX,os.io
+  - DOMAIN-SUFFIX,smart-pdu.io
+  - DOMAIN-SUFFIX,istoreos.io
+  - DOMAIN-SUFFIX,tp-link-bc.io
+  - DOMAIN-SUFFIX,unifi-os.io
+  - DOMAIN-SUFFIX,nas.io
+  - DOMAIN-SUFFIX,pc.io
+  - DOMAIN-SUFFIX,dsm.io
+  - DOMAIN-SUFFIX,fnos.io
   - DOMAIN-SUFFIX,app.io
-  - DOMAIN-SUFFIX,a
   - DOMAIN-SUFFIX,zima.os
-  - DOMAIN-SUFFIX,zimaos
-  - DOMAIN-SUFFIX,windows.os
-  - DOMAIN-SUFFIX,windows
+  - DOMAIN-SUFFIX,zimaos.io
+  - DOMAIN-SUFFIX,windows.io
