@@ -2,7 +2,6 @@ payload:
   - IP-CIDR,10.10.0.0/16,no-resolve
   - IP-CIDR,fd37:3345:162f:10::/64,no-resolve
   - DOMAIN-SUFFIX,home-1.internal
-  - DOMAIN-SUFFIX,os-1.io
   - DOMAIN-SUFFIX,smart-pdu-1.io
   - DOMAIN-SUFFIX,istoreos-1.io
   - DOMAIN-SUFFIX,tp-link-bc-1.io
