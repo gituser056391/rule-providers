@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,nas.io
   - DOMAIN-SUFFIX,pc.io
   - DOMAIN-SUFFIX,dsm.io
+  - DOMAIN-SUFFIX,fn.os
   - DOMAIN-SUFFIX,fnos.io
   - DOMAIN-SUFFIX,app.io
   - DOMAIN-SUFFIX,zima.os
